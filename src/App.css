@@ -8,6 +8,10 @@
   height: 90vh;
 }
 
+.acercademi{
+  background: url(286964281_3074984842752493_8505837108489803537_n.jpg) no-repeat;
+}
+
 .main-info{
   display: flex;
   flex-direction: column;
@@ -20,4 +24,38 @@
 .main-info h1{
   color: var(--primary-orange);
   text-transform: uppercase;
+}
+
+/* sobre mi */
+
+.text-light {
+  --bs-text-opacity: 1;
+  color: rgba(var(--bs-light-rgb),var(--bs-text-opacity))!important;
+}
+
+.text-end {
+  text-align: right!important;
+}
+
+p {
+  display: block;
+  font-size: 0.83em;
+  margin-block-start: 1.67em;
+  margin-block-end: 1.7em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+.text-white {
+  --bs-text-opacity: 1;
+  color: rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important;
+}
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
 }

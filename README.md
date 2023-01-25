@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+![Imagen del proyecto](https://github.com/eduardofierropro/Portfolio-desde-cero/blob/main/assets/home1.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Portfolio Junior 2021
 
-## Available Scripts
+Este es un ejemplo de Portfolio donde lo importante más que el código son los consejos que voy enseñando a medida que voy programando, de esta forma te recomeindo que te pongas el directo de fondo y programes tu propio portfolio.
 
-In the project directory, you can run:
+[![Original website](https://img.shields.io/static/v1?label=&message=Original%20Site&color=4d94b3&style=for-the-badge)](https://madcoolfestival.es/)
+[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://eduardofierropro.github.io/Portfolio-desde-cero/)
+[![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardofierropro/Portfolio-desde-cero)
+[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/XAwXz2w3vlg)
 
-### `npm start`
+## Tecnologías usadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![HTML](https://img.shields.io/static/v1?label=&message=Html&color=orange&logo=html5&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/static/v1?label=&message=SASS&color=CC6699&logo=sass&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white&style=for-the-badge)
+![BEM Methodology](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=17A1E6&logo=bem&logoColor=white&style=for-the-badge)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> Aclaraciones:
+>
+> No ha sido probado para tener soporte crossbrowsing
+>
+> El diseño de la web original puede variar
+>
+> Ha sido programado con fines de entretenimiento
+>
+> No lo uses en tu propio portfolio sino como referencia o práctica
 
-### `npm test`
+## 🔴 Vídeos y repositorios de otras programaciones
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Nombre | Youtube | Github | Github Pages |
+|--|--|--|--|
+|Playlist de todas las webs                         |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20playlist&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/playlist?list=PLJpymL0goBgETNW1I1rmuTUl-yoaRDUe5)|-|-|
+|Forbes para Jordi Wild, Nate Gentile y Oscar Dorta |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/RbrVM1acWx8)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Forbes-con-Jordi-Wild--Nate-Gentile-y-Oscar-Dorta/)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://forbes-eduardofierropro.netlify.app/)|
+|God of war: Ragnarok                               |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=YV8PON9MVl8)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/God-of-war-ragnarok)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/God-of-war-ragnarok/)|
+|The Crown of Wu                                    |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=zR3B_5uduec)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/The-Crown-Wu)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/The-Crown-Wu/)|
+|MadCool 2022                                       |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/mozRjGUSOm8)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Madcool-2022)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/Madcool-2022/)|
+|Google Stadia                                      |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/LtyWVeFE4uM)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Google-Stadia)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/Google-Stadia/)|
+|DC Shoes USA                                       |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/nUu--X0mmlo)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/DC-Shoes-USA)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/DC-Shoes-USA/)|
+|Netflix                                            |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/WCUASu4V258)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Netflix-desde-cero)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Netflix-desde-cero)|
+|Portfolio de Timmy                                 |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/XAwXz2w3vlg)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Portfolio-desde-cero)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/Portfolio-desde-cero/)|
+|Yodagram                                           |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/JWV2rgTnbFQ)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Yodagram)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/Yodagram/)|
+|TwitterRap                                         |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=NhSlsFV86Z8)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/TwitterRap)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/TwitterRap/)|
+|RockaCo                                            |-|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/rockaco)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/rockaco/)|
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 👨🏻‍🏫 Eduardo Fierro Pro
+ 
+¡Qué pasa cruck! Soy profesor de programación tanto en escuelas como en Bootcamps y en mis tiempos libres programo por Twitch y en Youtube.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
+[![twitch](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/eduardofierropro)
+[![tiktok](https://img.shields.io/static/v1?label=&message=tiktok&color=ff0050&logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@eduardofierro.pro?)
+[![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/eduardofierro.pro)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eduardofierropro)
+[![discord](https://img.shields.io/static/v1?label=&message=discord&color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/t4Txush)
+[![twitter](https://img.shields.io/static/v1?label=&message=twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/edfierropro)
+[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro)
+[![colaboración](https://img.shields.io/static/v1?label=&message=MIS%20CURSOS&color=blue&logo=teach&logoColor=white&style=for-the-badge)](http://colaboracion.eduardofierro.pro)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## 📄 Licencia 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+MIT Public License v3.0
+No puede usarse comercialmente

@@ -3,16 +3,11 @@ import {aside} from "react-bootstrap";
 
 const Sobremi = () => {
   return ( 
-    <div>
-    <h2 className="lead">Hola! Soy Tomás</h2>
-    <h4 className="text-danger display-4 text-dark">Programador FullStack Web Developer.</h4>
-    <p class="text-dark lead">
-                    Aventurero, deportista y curioso. Actualmente egresado de Rolling Code School. Me gusta siempre estar aprendiendo un poco mas! Super responsable y con todas las ganas de trabajar!!!
-                  </p>
-                  <aside class="col-12 col-md-6 acercademi">
-                
-                </aside>
-    </div>
+    <section className="bg-primary text-light text-center py-5">
+            <h3 className="display-4">Hola, soy Tomás!</h3>
+            <h2 className="display-6">Programador FullStack Web Developer</h2>
+            <p className="lead">Deportista, aventurero, curioso y con ganas de aprender siempre un poco mas! Egresado de Rolling Code School y con todas las ganas de trabajar.</p>
+        </section>
    
 
    );

@@ -40,7 +40,12 @@ padding: 120px;
     filter: grayscale(0%);
     transition: 700ms;
 }
-
+ 
+.tomy-img{
+  width: 250px;
+  height: 250px;
+ 
+}
 
 
 

@@ -30,17 +30,17 @@ const Navbar = () => {
 
             <ul className="navbar-nav d-flex flex-row me-1">
               <li className="nav-item me-3 me-lg-0">
-                <a className="nav-link text-white" href="https://www.facebook.com/profile.php?id=100007230225536">
-                  <i className="bi bi-facebook"></i>
+              <a href="https://www.facebook.com/profile.php?id=100007230225536" target="_blank" className="text-white nav-link">
+                  <i className="bi bi-facebook"> </i>
                 </a>
               </li>
               <li className="nav-item me-3 me-lg-0">
-                <a className="nav-link text-white" href="https://www.instagram.com/tomas.luna99/">
+              <a href="https://www.instagram.com/tomas.luna99/" target="_blank" className="text-white nav-link">
                   <i className="bi bi-instagram"></i>
                 </a>
               </li>
               <li className="nav-item me-2">
-                <a className="nav-link text-white" href="https://github.com/tomasluna99?tab=repositories"><i class="bi bi-github"></i></a>
+              <a href="https://github.com/tomasluna99" target="_blank" className="text-white nav-link"><i class="bi bi-github"></i></a>
               </li>
             </ul>
           </div>

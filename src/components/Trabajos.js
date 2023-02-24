@@ -55,49 +55,30 @@ const Trabajos = () => {
   
 </aside>
 <aside class="col-12 col-md-4 col-lg-3">
-  <div class="card">
-    <img src="" class="card-img-top" alt="Medialuna" />
+<div class="card">
+    <img src="https://tranquil-pie-b26d7d.netlify.app/img/bannerIndex2.jpg" class="card-img-top" alt="Drones" />
     <div class="card-body">
-      <h5 class="card-title">Medialuna</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <button class="btn btn-primary" type="button">Ver mas</button> 
+      <h5 class="card-title">DronLandia</h5>
+      <p class="card-text">Segundo trabajo de fin de modulo donde implementamos mas a fondo el uso de Javascript realizando un Ecommerce pudiendo agregar, quitar, modificar o buscar algun elemento, poniendo en practica nuestro primer carrito de compras.</p>
+      <a href="https://tranquil-pie-b26d7d.netlify.app/?fbclid=IwAR3ClwA5Dc2eeorxG97u2AGz-uaAQOpm3AAyK2x0tOi1NErkKF8Hdkac54c" target="_blank" className="btn btn-primary">Ver mas</a>  
     </div>
   </div>
   
 </aside>
 <aside class="col-12 col-md-4 col-lg-3">
   <div class="card">
-    <img src="" class="card-img-top" alt="Medialuna" />
+    <img src="https://practicarestaurant.netlify.app/img/platterjpg.jpg" class="card-img-top" alt="RestoBar" />
     <div class="card-body">
-      <h5 class="card-title">Medialuna</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <button class="btn btn-primary" type="button">Ver mas</button> 
+      <h5 class="card-title">Practica-Restaurant</h5>
+      <p class="card-text">Aqui practicamos mas a fondo las Media Query agregando tambien el uso de las card utilizando el efecto hoover "trabajo individual".</p>
+      <a href="https://practicarestaurant.netlify.app/" target="_blank" className="btn btn-primary">Ver mas</a> 
     </div>
   </div>
   
 </aside>
-<aside class="col-12 col-md-4 col-lg-3">
-  <div class="card">
-    <img src="" class="card-img-top" alt="Medialuna" />
-    <div class="card-body">
-      <h5 class="card-title">Medialuna</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <button class="btn btn-primary" type="button">Ver mas</button> 
-    </div>
-  </div>
-  
-</aside>
-<aside class="col-12 col-md-4 col-lg-3">
-  <div class="card">
-    <img src="" class="card-img-top" alt="Medialuna" />
-    <div class="card-body">
-      <h5 class="card-title">Medialuna</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <button class="btn btn-primary" type="button">Ver mas</button> 
-    </div>
-  </div>
-  
-</aside>
+
+
+
 <aside class="col-12 col-md-4 col-lg-3">
   <div class="card">
     <img src="" class="card-img-top" alt="Medialuna" />

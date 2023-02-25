@@ -11,6 +11,11 @@ padding: 120px;
 
 /*Imagen*/
 
+.diploma{
+  width: 450px;
+  height: 300px;
+}
+
 .header-wraper{
   position: relative;
   background: url(BannerPortfolio.jpg) no-repeat;

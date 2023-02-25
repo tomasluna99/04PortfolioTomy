@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bafa317.css",
+    "main.js": "/static/js/main.b072652a.js",
+    "static/media/BannerPortfolio.jpg": "/static/media/BannerPortfolio.8e4e65683dc0149fc984.jpg",
+    "static/media/curso.png.png": "/static/media/curso.png.00856ed312fbf9806ad5.png",
+    "static/media/tomy.png": "/static/media/tomy.e7fb04131551a93afb19.png",
+    "index.html": "/index.html",
+    "main.2bafa317.css.map": "/static/css/main.2bafa317.css.map",
+    "main.b072652a.js.map": "/static/js/main.b072652a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bafa317.css",
+    "static/js/main.b072652a.js"
+  ]
+}
